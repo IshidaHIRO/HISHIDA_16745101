@@ -1,0 +1,3 @@
+module HISHIDA16745101
+  VERSION = "0.1.0"
+end
